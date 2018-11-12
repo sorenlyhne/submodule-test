@@ -1,0 +1,3 @@
+[submodule "submodules/css-merger"]
+	path = submodules/css-merger
+	url = https://github.com/parentnode/css-merger.git
